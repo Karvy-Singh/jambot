@@ -1,0 +1,12 @@
+node_modules
+.vscode
+.env
+2.env
+package-lock.json
+package.json
+add_sample_data.py
+remove_sample_data.py
+index.js
+main.py
+__pycache__/
+*.pyc
